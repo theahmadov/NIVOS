@@ -35,6 +35,9 @@ pip install tld
 echo " "
 echo "[SETUP] Installing NMAP"
 sudo apt install nmap
+pip install colorama
+pip install phonenumbers
+sudo pip install phonenumbers
 echo " "
 
 
