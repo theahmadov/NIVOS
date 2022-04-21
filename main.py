@@ -22,6 +22,7 @@ print(f"{bcolors.WARNING}[2]     Scan Networks")
 print(f"{bcolors.WARNING}[3]     Try Crack Network With Mac Adress")
 print(f"{bcolors.WARNING}[4]     Scan Website")
 print(f"{bcolors.WARNING}[5]     DOS-DDOS")
+print(f"{bcolors.WARNING}[6]     Phone Information Gathering")
 print(" ")
 i = int(input(f"{bcolors.OK}[MENU] Please Select Operation Number : "))
 if i==1:
@@ -34,6 +35,8 @@ elif i == 4:
     os.system("sudo python3 ./nivo/NIVO_WEB.py")
 elif i == 5:
     os.system("sudo python3 ./nivo/NIVO_DOS.py")
+elif i == 6:
+    os.system("sudo python3 ./nivo/NIVO_PH.py")
 
 else:
     print(f"{bcolors.WARNING}[WARNING] Invalid Command Dedected. Please Input Valid Commands.")
