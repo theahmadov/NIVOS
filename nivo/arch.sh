@@ -1,5 +1,4 @@
 echo "[SETUP] Installing..."
-
     echo "[SETUP] Update"
     sudo pacman -Syy
     echo " "
@@ -20,12 +19,16 @@ echo "[SETUP] Installing..."
     echo " "
     echo "[SETUP] Installing Figlet"
     sudo pacman -S figlet
+    pip install colorama
+    pip install phonenumbers
+    sudo pip install phonenumbers
     echo " "
     echo "[SETUP] Installing Aircrack-ng"
     sudo pacman -S aircrack-ng
+    
     echo " "
     echo "[SETUP] Installing Cowpatty"
-
+    
     sudo pacman -S cowpatty
     echo " "
     echo "[SETUP] Installing Pandas Packet"
