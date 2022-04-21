@@ -1,6 +1,6 @@
 <div>
   <p align="center">
-    <img src="https://github.com/TheSadError/NIVOS/blob/main/2.png" width="800"> 
+    <img src="https://github.com/TheSadError/NIVOS/blob/main/1.png" width="800"> 
   </p>
 </div>
 # NIVOS
