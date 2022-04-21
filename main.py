@@ -36,7 +36,7 @@ elif i == 4:
 elif i == 5:
     os.system("sudo python3 ./nivo/NIVO_DOS.py")
 elif i == 6:
-    os.system("sudo python3 nivo/NIVO_PH.py")
+    os.system("sudo python3 ./nivo/NIVO_PH.py")
 
 else:
     print(f"{bcolors.WARNING}[WARNING] Invalid Command Dedected. Please Input Valid Commands.")
