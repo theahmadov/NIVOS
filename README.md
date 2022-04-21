@@ -16,6 +16,7 @@ NIVOS is a python tool that allows you to scan deeply, crack wifi, see people on
 
 ## Installation & Setup
 ```
+pip install os
 git clone https://github.com/TheSadError/NIVOS
 cd NIVOS
 sudo python3 setup.py
