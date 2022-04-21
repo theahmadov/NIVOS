@@ -1,6 +1,12 @@
+<div>
+  <p align="center">
+    <img src="https://github.com/TheSadError/NIVOS/blob/main/2.png" width="800"> 
+  </p>
+</div>
 # NIVOS
 ## Coded By Error
 NIVOS is a python tool that allows you to scan deeply, crack wifi, see people on your network. It applies to all linux operating systems. And it is improving every day, new packages are added.
+
 
 <div>
   <p align="center">
