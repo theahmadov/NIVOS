@@ -31,13 +31,14 @@ sudo python3 main.py
 
 There is 4 tools. Still Upgrading.
 
-[1]     Scan Devices On Your Network
-[9]     Scan Networks 
-[3]     Crack Network With Mac Adress
-[4]     Scan Website Vulnerabilities And Deeply Information Of Website
-.
-.
-.
+`[1]     Scan Devices On Your Network`
+`[9]     Scan Networks `
+`[3]     Crack Network With Mac Adress`
+`[4]     Scan Website Vulnerabilities And Deeply Information Of Website`
+`[5]     DOS-DDOS Tool`
+`.`
+`.`
+`.`
 
 
 Created : April 21 2022 [21.04.2022]
