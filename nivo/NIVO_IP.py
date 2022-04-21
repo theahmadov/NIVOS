@@ -13,7 +13,7 @@ class bcolors:
 
 os.system("figlet Error | lolcat")
 print(f"{bcolors.FAIL}This Tool Created By Error ")
-print(f"{bcolors.FAIL}Github  : ")
+print(f"{bcolors.FAIL}Github  : https://github.com/TheSadError")
 print(f"{bcolors.FAIL}Discord : err0r#4018")
 print(" ")
 print(f"{bcolors.OK}[NIVOS] Starting...")
