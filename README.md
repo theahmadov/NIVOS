@@ -38,6 +38,9 @@ There is 4 tools. Still Upgrading.
 `[4]     Scan Website Vulnerabilities And Deeply Information Of Website`
 `[5]     DOS-DDOS Tool`
 `[6]     Phone Info Tool`
+`[7]     System INFO`
+`[8]     Sniffing , Spoofing`
+`[9]     IP Information Gathering`
 `.`
 `.`
 `.`
