@@ -26,6 +26,7 @@ print(f"{bcolors.FAIL}[6]     Phone [Information Gathering , SMS Sender]")
 print(f"{bcolors.FAIL}[7]     Get Your Information [System INFO]")
 print(f"{bcolors.FAIL}[8]     Sniffing , Spoofing [Bettercap]")
 print(f"{bcolors.FAIL}[9]     IP [Information Gathering]")
+print(f"{bcolors.FAIL}[10]    Verify Gmail")
 print(" ")
 i = int(input(f"{bcolors.OK}[MENU] Please Select Operation Number : "))
 if i==1:
@@ -46,6 +47,8 @@ elif i == 8:
     os.system("sudo python3 ./nivo/NIVO_BET.py")
 elif i == 9:
     os.system("sudo python3 ./nivo/NIVO_IPF.py")
+elif i == 10:
+    os.system("sudo python3 ./nivo/NIVO_EM.py")
 
 else:
     print(f"{bcolors.FAIL}[FAIL] Invalid Command Dedected. Please Input Valid Commands.")
