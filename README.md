@@ -45,7 +45,40 @@ Still Upgrading.
 .
 .
 ```
+# Before NIVOS :
+```cpp
+#include <bits/stdc++.h>
+#include <vector>
+#include <cmath>
+#define ll  long long
+#define li  long long int
+#define pb push_back
+using namespace std;
+int main()
+{
+    int t;
+    t = 49;
+    while(t--){
+        cout<<"Welcome To NIVOS!"<<endl;
+        t++;
+    }
 
+    return 0;
+}
+```
+# After NIVOS :
+```cpp
+#include <bits/stdc++.h>
+using namespace std;
+int main()
+{
+    while(true){
+        cout<<"Welcome To NIVOS!"<<endl;
+    }
+
+    return 0;
+}
+```
 Created : April 21 2022 [21.04.2022]
 
 # For Educational Purposes
