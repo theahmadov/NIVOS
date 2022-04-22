@@ -3,7 +3,7 @@
 ## Information Gathering And Scan Tool
 <div>
   <p align="center">
-    <img src="https://github.com/TheSadError/NIVOS/blob/main/c.png" width="700"> 
+    <img src="https://github.com/TheSadError/NIVOS/blob/main/Images/c.png" width="700"> 
   </p>
 </div>
 NIVOS is a python tool that allows you to scan deeply, crack wifi, see people on your network. It applies to all linux operating systems. And it is improving every day, new packages are added.
@@ -11,7 +11,7 @@ NIVOS is a python tool that allows you to scan deeply, crack wifi, see people on
 
 <div>
   <p align="center">
-    <img src="s1.png" width="800"> 
+    <img src="https://github.com/TheSadError/NIVOS/blob/main/Images/s1.png" width="800"> 
   </p>
 </div>
 
