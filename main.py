@@ -7,7 +7,7 @@ class bcolors:
     WARNING = '\033[93m' 
     FAIL = '\033[91m' 
     RESET = '\033[0m' 
-
+os.system("clear")
 os.system("figlet Error | lolcat")
 print(f"{bcolors.WARNING}This Tool Created By Error")
 print(f"{bcolors.WARNING}Github  : ")
