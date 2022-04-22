@@ -42,6 +42,7 @@ Still Upgrading.
 [7]     System INFO
 [8]     Sniffing , Spoofing
 [9]     IP Information Gathering
+[10]    Email Verifier
 .
 .
 .
