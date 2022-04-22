@@ -10,7 +10,7 @@ class bcolors:
 os.system("clear")
 os.system("figlet Error | lolcat")
 print(f"{bcolors.WARNING}This Tool Created By Error")
-print(f"{bcolors.WARNING}Github  : ")
+print(f"{bcolors.WARNING}Github  : https://github.com/TheSadError ")
 print(f"{bcolors.WARNING}Discord : err0r#4018")
 print(" ")
 print(f"{bcolors.OK}[NIVOS] Welcome To NIVO IP Scanner -NIVOS-")
