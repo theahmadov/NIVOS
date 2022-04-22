@@ -30,21 +30,21 @@ sudo python3 main.py
 
 ## Information Of Tool
 
-There is 4 tools. Still Upgrading.
-
-`[1]     Scan Devices On Your Network`
-`[9]     Scan Networks `
-`[3]     Crack Network With Mac Adress`
-`[4]     Scan Website Vulnerabilities And Deeply Information Of Website`
-`[5]     DOS-DDOS Tool`
-`[6]     Phone Info Tool`
-`[7]     System INFO`
-`[8]     Sniffing , Spoofing`
-`[9]     IP Information Gathering`
-`.`
-`.`
-`.`
-
+Still Upgrading.
+```
+[1]     Scan Devices On Your Network
+[9]     Scan Networks 
+[3]     Crack Network With Mac Adress
+[4]     Scan Website Vulnerabilities And Deeply Information Of Website
+[5]     DOS-DDOS Tool
+[6]     Phone Info Tool
+[7]     System INFO
+[8]     Sniffing , Spoofing
+[9]     IP Information Gathering
+.
+.
+.
+```
 
 Created : April 21 2022 [21.04.2022]
 
