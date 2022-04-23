@@ -33,7 +33,7 @@ sudo python3 main.py
 Still Upgrading.
 ```
 [1]     Scan Devices On Your Network
-[9]     Scan Networks 
+[2]     Scan Networks 
 [3]     Crack Network With Mac Adress
 [4]     Scan Website Vulnerabilities And Deeply Information Of Website
 [5]     DOS-DDOS Tool
