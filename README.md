@@ -8,6 +8,7 @@
 </div>
 NIVOS is a python tool that allows you to scan deeply, crack wifi, see people on your network. It applies to all linux operating systems. And it is improving every day, new packages are added.
 
+Please Write Issues If There Is A Problem.
 
 <div>
   <p align="center">
@@ -47,40 +48,6 @@ Still Upgrading.
 .
 .
 .
-```
-# Before NIVOS :
-```cpp
-#include <bits/stdc++.h>
-#include <vector>
-#include <cmath>
-#define ll  long long
-#define li  long long int
-#define pb push_back
-using namespace std;
-int main()
-{
-    int t;
-    t = 49;
-    while(t--){
-        cout<<"Welcome To NIVOS!"<<endl;
-        t++;
-    }
-
-    return 0;
-}
-```
-# After NIVOS :
-```cpp
-#include <bits/stdc++.h>
-using namespace std;
-int main()
-{
-    while(true){
-        cout<<"Welcome To NIVOS!"<<endl;
-    }
-
-    return 0;
-}
 ```
 ## Created : April 21 2022 [21.04.2022]
 
