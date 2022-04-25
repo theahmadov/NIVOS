@@ -28,6 +28,7 @@ print(f"{bcolors.FAIL}[8]     Sniffing , Spoofing [Bettercap]")
 print(f"{bcolors.FAIL}[9]     IP [Information Gathering]")
 print(f"{bcolors.FAIL}[10]    Verify Gmail")
 print(f"{bcolors.FAIL}[11]    Port Scanner")
+print(f"{bcolors.FAIL}[12]    SQL Scan (WEBSITE)")
 print(" ")
 i = int(input(f"{bcolors.OK}[MENU] Please Select Operation Number : "))
 if i==1:
@@ -52,6 +53,8 @@ elif i == 10:
     os.system("sudo python3 ./nivo/NIVO_EM.py")
 elif i == 11:
     os.system("sudo python3 ./nivo/NIVO_PRT.py")
+elif i == 12:
+    os.system("sudo python3 ./nivo/NIVO_SQL.py")
 
 else:
     print(f"{bcolors.FAIL}[FAIL] Invalid Command Dedected. Please Input Valid Commands.")
