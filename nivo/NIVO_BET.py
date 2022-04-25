@@ -1,12 +1,12 @@
-import os
+import os# Error
 
-class bcolors:
-    OK = '\033[92m' 
-    WARNING = '\033[93m' 
-    FAIL = '\033[91m' 
-    RESET = '\033[0m' 
+class bcolors:# Error
+    OK = '\033[92m' # Error
+    WARNING = '\033[93m' # Error
+    FAIL = '\033[91m' # Error
+    RESET = '\033[0m' # Error
 
-print(f"{bcolors.OK}[NIVOS] Sniffing Spoofing")
-print(f"{bcolors.OK}[NIVOS] Starting...")
+print(f"{bcolors.OK}[NIVOS] Sniffing Spoofing")# Error
+print(f"{bcolors.OK}[NIVOS] Starting...")# Error
 
-os.system("sudo bettercap")
+os.system("sudo bettercap")# Error
