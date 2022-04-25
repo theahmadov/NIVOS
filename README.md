@@ -45,6 +45,7 @@ Still Upgrading.
 [9]     IP Information Gathering
 [10]    Email Verifier
 [11]    Port Scanner
+[12]    SQL Injection Scanner
 .
 .
 .
