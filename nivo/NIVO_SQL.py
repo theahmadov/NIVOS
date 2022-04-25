@@ -1,3 +1,6 @@
+################################################################
+#           This Repo Writed By Error                          #
+################################################################
 import requests
 from bs4 import BeautifulSoup as bs
 from urllib.parse import urljoin
