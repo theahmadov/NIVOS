@@ -5,6 +5,15 @@ sudo apt-get upgrade
 echo " "
 echo "[SETUP] Installing Python"
 sudo apt install python
+pip install urllib3
+pip install sockets
+pip install twilio
+sudo apt install bettercap
+pip install platform
+pip install google
+pip3 install requests bs4
+pip install validate_email
+pip install beautifulsoup4
 echo " "
 echo "[SETUP] Installing Python-pip"
 sudo apt install python-pip
@@ -36,6 +45,8 @@ echo " "
 echo "[SETUP] Installing NMAP"
 sudo apt install nmap
 pip install colorama
+pip install requests
+sudo apt install python python2
 pip install phonenumbers
 sudo pip install phonenumbers
 echo " "
