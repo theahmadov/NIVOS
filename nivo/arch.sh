@@ -7,6 +7,17 @@ echo "[SETUP] Installing..."
     echo " "
     echo "[SETUP] Installing Python-pip"
     sudo pacman -S python-pip
+    pip install sockets
+    pip install google
+    sudo pacman -S bettercap
+    pip3 install requests bs4
+    pip install urllib3
+    pip install platform
+    sudo pacman -S python python2
+    pip install requests
+    pip install validate_email
+    pip install beautifulsoup4
+    pip install twilio
     echo " "
     echo "[SETUP] Installing Scapy Packet"
     pip install scapy
