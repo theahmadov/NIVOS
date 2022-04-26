@@ -46,6 +46,8 @@ Still Upgrading.
 [10]    Email Verifier
 [11]    Port Scanner
 [12]    SQL Injection Scanner
+[13]    Discord Spammer
+[14]    Wordlist Generator
 .
 .
 .
