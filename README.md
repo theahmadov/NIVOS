@@ -12,7 +12,7 @@ NIVOS is a python tool that allows you to scan deeply, crack wifi, see people on
 
 <div>
   <p align="center">
-    <img src="https://github.com/TheSadError/NIVOS/blob/main/Images/s5.png" width="800"> 
+    <img src="https://github.com/TheSadError/NIVOS/blob/main/Images/s6.png" width="800"> 
   </p>
 </div>
 
