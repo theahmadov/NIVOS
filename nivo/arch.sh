@@ -14,6 +14,7 @@ echo "[SETUP] Installing..."
     pip install urllib3
     pip install platform
     pip install pyfiglet
+    sudo pacman -S gcc
     sudo pacman -S python python2
     pip install requests
     pip install validate_email
