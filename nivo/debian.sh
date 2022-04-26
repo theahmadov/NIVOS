@@ -12,6 +12,8 @@ sudo apt install bettercap
 pip install platform
 pip install google
 pip install pyfiglet
+sudo apt-get install gcc
+sudo apt install gcc
 pip3 install requests bs4
 pip install validate_email
 pip install beautifulsoup4
