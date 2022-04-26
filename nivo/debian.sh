@@ -11,6 +11,7 @@ pip install twilio
 sudo apt install bettercap
 pip install platform
 pip install google
+pip install pyfiglet
 pip3 install requests bs4
 pip install validate_email
 pip install beautifulsoup4
