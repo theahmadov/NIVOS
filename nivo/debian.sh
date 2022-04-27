@@ -13,6 +13,7 @@ pip install platform
 pip install google
 pip install pyfiglet
 sudo apt-get install gcc
+sudo apt install whois
 sudo apt install gcc
 pip3 install requests bs4
 pip install validate_email
