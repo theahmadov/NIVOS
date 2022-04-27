@@ -2,6 +2,8 @@ import os
 import time
 from colorama import Fore,Back,Style
 import socket
+import requests
+from bs4 import BeautifulSoup
 class bcolors:
     OK = '\033[92m' 
     a = '\033[93m' 
@@ -33,6 +35,7 @@ print(f"{bcolors.FAIL}[12]    SQL Scan (WEBSITE)") # Error
 print(f"{bcolors.FAIL}[13]    Discord Spammer") # Error
 print(f"{bcolors.FAIL}[14]    Wordlist Generator") # Error
 print(f"{bcolors.FAIL}[15]    Find Social Media Account With Username") # Error
+print(f"{bcolors.FAIL}[16]    See index.html Source Of Website") # Error
 print(" ")
 i = int(input(f"{bcolors.OK}[MENU] Please Select Operation Number : ")) # Error
 if i==1:
@@ -65,6 +68,16 @@ elif i == 14:
     os.system("sudo python3 ./nivo/NIVO_WRD.py") # Error
 elif i == 15:
     os.system("sudo bash nivo/NIVO_FUSR.sh") # Error
+elif i == 16:
+    os.system("clear")
+    os.system("figlet Error | lolcat")
+    print(f"{bcolors.FAIL}This Tool Created By Error")
+    print(f"{bcolors.FAIL}Github  : https://github.com/TheSadError ")
+    print(f"{bcolors.FAIL}Discord : err0r#4018")
+    url = input(f"{bcolors.OK}[NIVOS] Please Input URL : ")
+    response = requests.get(url)
+    soup = BeautifulSoup(response.text, 'html.parser')
+    print(f"{bcolors.FAIL}{soup}")
 
 else:
     print(f"{bcolors.FAIL}[FAIL] Invalid Command Dedected. Please Input Valid Commands.") # Error
