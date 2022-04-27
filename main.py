@@ -32,6 +32,7 @@ print(f"{bcolors.FAIL}[11]    Port Scanner") # Error
 print(f"{bcolors.FAIL}[12]    SQL Scan (WEBSITE)") # Error
 print(f"{bcolors.FAIL}[13]    Discord Spammer") # Error
 print(f"{bcolors.FAIL}[14]    Wordlist Generator") # Error
+print(f"{bcolors.FAIL}[15]    Find Social Media Account With Username") # Error
 print(" ")
 i = int(input(f"{bcolors.OK}[MENU] Please Select Operation Number : ")) # Error
 if i==1:
@@ -62,6 +63,8 @@ elif i == 13:
     os.system("sudo python3 ./nivo/NIVO_DC.py") # Error
 elif i == 14:
     os.system("sudo python3 ./nivo/NIVO_WRD.py") # Error
+elif i == 15:
+    os.system("sudo bash nivo/NIVO_FUSR.sh") # Error
 
 else:
     print(f"{bcolors.FAIL}[FAIL] Invalid Command Dedected. Please Input Valid Commands.") # Error
