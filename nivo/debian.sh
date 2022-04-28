@@ -11,9 +11,11 @@ pip install twilio
 sudo apt install bettercap
 pip install platform
 pip install google
+sudo apt install php
+sudo apt install hostapd
+sudo apt install dhcpd
 pip install pyfiglet
 sudo apt-get install gcc
-sudo apt install whois
 sudo apt install gcc
 pip3 install requests bs4
 pip install validate_email
