@@ -36,6 +36,7 @@ print(f"{bcolors.FAIL}[13]    Discord Spammer") # Error
 print(f"{bcolors.FAIL}[14]    Wordlist Generator") # Error
 print(f"{bcolors.FAIL}[15]    Find Social Media Account With Username") # Error
 print(f"{bcolors.FAIL}[16]    See index.html Source Of Website") # Error
+print(f"{bcolors.FAIL}[17]    Creating Fake Wifi Acces Point For Phishing") # Error
 print(" ")
 i = int(input(f"{bcolors.OK}[MENU] Please Select Operation Number : ")) # Error
 if i==1:
@@ -78,6 +79,7 @@ elif i == 16:
     response = requests.get(url)
     soup = BeautifulSoup(response.text, 'html.parser')
     print(f"{bcolors.FAIL}{soup}")
-
+elif i == 17:
+    os.system("sudo bash nivo/NIVO_FAKEP.sh") # Error
 else:
     print(f"{bcolors.FAIL}[FAIL] Invalid Command Dedected. Please Input Valid Commands.") # Error
