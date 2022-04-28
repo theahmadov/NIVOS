@@ -37,41 +37,42 @@ print(f"{bcolors.FAIL}[14]    Wordlist Generator") # Error
 print(f"{bcolors.FAIL}[15]    Find Social Media Account With Username") # Error
 print(f"{bcolors.FAIL}[16]    See index.html Source Of Website") # Error
 print(f"{bcolors.FAIL}[17]    Creating Fake Wifi Acces Point For Phishing") # Error
+print(f"{bcolors.FAIL}[18]    XSS Vulnerebility Scan") # Error
 print(f"{bcolors.FAIL}[C]     Credits") # Error
 print(f"{bcolors.FAIL}[Q]     Quit") # Error
 print(" ")
 i = input(f"{bcolors.OK}[MENU] Please Select Operation Number : ") # Error
-if i==1:
+if i=="1":
     os.system("sudo python3 ./nivo/NIVO_IP.py") # Error
-elif i==2:
+elif i=="2":
     os.system("sudo python3 ./nivo/NIVO_NET.py") # Error
-elif i == 3:
+elif i == "3":
     os.system("sudo python3 ./nivo/NIVO_CRACK.py") # Error
-elif i == 4:
+elif i == "4":
     os.system("sudo python3 ./nivo/NIVO_WEB.py") # Error
-elif i == 5:
+elif i == "5":
     os.system("sudo python3 ./nivo/NIVO_DOS.py") # Error
-elif i == 6:
+elif i == "6":
     os.system("sudo python3 ./nivo/NIVO_PH.py") # Error
-elif i == 7:
+elif i == "7":
     os.system("sudo python3 ./nivo/NIVO_INF.py") # Error
-elif i == 8:
+elif i == "8":
     os.system("sudo python3 ./nivo/NIVO_BET.py") # Error
-elif i == 9:
+elif i == "9":
     os.system("sudo python3 ./nivo/NIVO_IPF.py") # Error
-elif i == 10:
+elif i == "10":
     os.system("sudo python3 ./nivo/NIVO_EM.py") # Error
-elif i == 11:
+elif i == "11":
     os.system("sudo python3 ./nivo/NIVO_PRT.py") # Error
-elif i == 12:
+elif i == "12":
     os.system("sudo python3 ./nivo/NIVO_SQL.py") # Error
-elif i == 13:
+elif i == "13":
     os.system("sudo python3 ./nivo/NIVO_DC.py") # Error
-elif i == 14:
+elif i == "14":
     os.system("sudo python3 ./nivo/NIVO_WRD.py") # Error
-elif i == 15:
+elif i == "15":
     os.system("sudo bash nivo/NIVO_FUSR.sh") # Error
-elif i == 16:
+elif i == "16":
     os.system("clear")
     os.system("figlet Error | lolcat")
     print(f"{bcolors.FAIL}This Tool Created By Error")
@@ -81,8 +82,10 @@ elif i == 16:
     response = requests.get(url)
     soup = BeautifulSoup(response.text, 'html.parser')
     print(f"{bcolors.FAIL}{soup}")
-elif i == 17:
+elif i == "17":
     os.system("sudo bash nivo/NIVO_FAKEP.sh") # Error
+elif i == "18":
+    os.system("sudo python3 ./nivo/NIVO_XSS.py") # Error1
 elif i == "C" or i == "c":
     os.system("sudo python3 ./NH/NH_CR.py") # Error
 elif i == "Q" or i == "q" :
