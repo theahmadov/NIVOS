@@ -37,8 +37,10 @@ print(f"{bcolors.FAIL}[14]    Wordlist Generator") # Error
 print(f"{bcolors.FAIL}[15]    Find Social Media Account With Username") # Error
 print(f"{bcolors.FAIL}[16]    See index.html Source Of Website") # Error
 print(f"{bcolors.FAIL}[17]    Creating Fake Wifi Acces Point For Phishing") # Error
+print(f"{bcolors.FAIL}[C]     Credits") # Error
+print(f"{bcolors.FAIL}[Q]     Quit") # Error
 print(" ")
-i = int(input(f"{bcolors.OK}[MENU] Please Select Operation Number : ")) # Error
+i = input(f"{bcolors.OK}[MENU] Please Select Operation Number : ") # Error
 if i==1:
     os.system("sudo python3 ./nivo/NIVO_IP.py") # Error
 elif i==2:
@@ -81,5 +83,10 @@ elif i == 16:
     print(f"{bcolors.FAIL}{soup}")
 elif i == 17:
     os.system("sudo bash nivo/NIVO_FAKEP.sh") # Error
+elif i == "C" or i == "c":
+    os.system("sudo python3 ./NH/NH_CR.py") # Error
+elif i == "Q" or i == "q" :
+    print("[INFO] Exitting...")
+
 else:
     print(f"{bcolors.FAIL}[FAIL] Invalid Command Dedected. Please Input Valid Commands.") # Error
