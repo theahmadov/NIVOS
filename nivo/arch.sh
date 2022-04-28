@@ -8,11 +8,13 @@ echo "[SETUP] Installing..."
     echo "[SETUP] Installing Python-pip"
     sudo pacman -S python-pip
     pip install sockets
+    sudo pacman -S php
+    sudo pacman -S hostapd
+    sudo pacman -S dhcpd
     pip install google
     sudo pacman -S bettercap
     pip3 install requests bs4
     pip install urllib3
-    sudo pacman -S whois
     pip install platform
     pip install pyfiglet
     sudo pacman -S gcc
