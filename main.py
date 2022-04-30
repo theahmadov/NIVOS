@@ -40,6 +40,7 @@ print(f"{bcolors.FAIL}[17]    Creating Fake Wifi Acces Point For Phishing") # Er
 print(f"{bcolors.FAIL}[18]    XSS Vulnerebility Scan") # Error
 print(f"{bcolors.FAIL}[19]    Dedect ARP Spoof") # Error
 print(f"{bcolors.FAIL}[20]    Image Meta Data") # Error
+print(f"{bcolors.FAIL}[21]    Brute Force ZIP") # Error
 print(f"{bcolors.FAIL}[C]     Credits") # Error
 print(f"{bcolors.FAIL}[Q]     Quit") # Error
 print(" ")
@@ -92,6 +93,8 @@ elif i == "19":
     os.system("sudo python3 ./nivo/NIVO_DARP.py") # Error
 elif i == "20":
     os.system("sudo python3 ./nivo/NIVO_IMAGEM.py") # Error
+elif i == "21":
+    os.system("sudo python3 ./nivo/NIVO_ZIP.py") # Error
 elif i == "C" or i == "c":
     os.system("sudo python3 ./NH/NH_CR.py") # Error
 elif i == "Q" or i == "q" :
