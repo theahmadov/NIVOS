@@ -52,6 +52,7 @@ Still Upgrading.
 [17]    Creating Fake Wifi Acces Point For Phishing
 [18]    XSS Vulnerebility Scan
 [19]    Dedect ARP Spoof
+[20]    Image Meta Data
 [C]     Credits
 [Q]     Quit
 .
