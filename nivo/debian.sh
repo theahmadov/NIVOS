@@ -9,8 +9,11 @@ pip install urllib3
 pip install sockets
 pip install twilio
 sudo apt install bettercap
+pip install tqdm
 pip install platform
+pip install matplotlib
 pip install google
+pip install pandas pandas-datareader plotly
 sudo apt install php
 sudo apt install hostapd
 sudo apt install dhcpd
