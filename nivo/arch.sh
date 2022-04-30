@@ -7,9 +7,12 @@ echo "[SETUP] Installing..."
     echo " "
     echo "[SETUP] Installing Python-pip"
     sudo pacman -S python-pip
+    pip install pandas pandas-datareader plotly
+    pip install tqdm
     pip install sockets
     sudo pacman -S php
     sudo pacman -S hostapd
+    pip install matplotlib
     sudo pacman -S dhcpd
     pip install google
     sudo pacman -S bettercap
