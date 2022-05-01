@@ -41,7 +41,7 @@ print(f"{bcolors.FAIL}[18]    XSS Vulnerebility Scan") # Error
 print(f"{bcolors.FAIL}[19]    Dedect ARP Spoof") # Error
 print(f"{bcolors.FAIL}[20]    Image Meta Data") # Error
 print(f"{bcolors.FAIL}[21]    Brute Force ZIP") # Error
-print(f"{bgcolors.FAIL}[22]   Instagram Bot") # Janiue
+print(f"{bcolors.FAIL}[22]   Instagram Bot") # Janiue
 print(f"{bcolors.FAIL}[C]     Credits") # Error
 print(f"{bcolors.FAIL}[Q]     Quit") # Error
 print(" ")
