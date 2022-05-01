@@ -8,6 +8,7 @@ sudo apt install python
 pip install urllib3
 pip install sockets
 pip install twilio
+pip install instabot
 sudo apt install bettercap
 pip install tqdm
 pip install platform
