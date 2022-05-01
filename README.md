@@ -33,27 +33,28 @@ sudo python3 main.py
 
 Still Upgrading.
 ```
-[1]     Scan Devices On Your Network
-[2]     Scan Networks 
-[3]     Crack Network With Mac Adress
-[4]     Scan Website Vulnerabilities And Deeply Information Of Website
-[5]     DOS-DDOS Tool
-[6]     Phone Info Tool
-[7]     System INFO
-[8]     Sniffing , Spoofing
-[9]     IP Information Gathering
-[10]    Email Verifier
-[11]    Port Scanner
-[12]    SQL Injection Scanner
-[13]    Discord Spammer
-[14]    Wordlist Generator
-[15]    Find Social Media Account With Username
-[16]    See index.html Source Of Website
-[17]    Creating Fake Wifi Acces Point For Phishing
-[18]    XSS Vulnerebility Scan
-[19]    Dedect ARP Spoof
-[20]    Image Meta Data
-[21]    Brute Force ZIP
+[1]     Scan Devices On Your Network                                                        (By Error)
+[2]     Scan Networks                                                                       (By Error)
+[3]     Crack Network With Mac Adress                                                       (By Error)
+[4]     Scan Website Vulnerabilities And Deeply Information Of Website                      (By Error)
+[5]     DOS-DDOS Tool                                                                       (By Error)
+[6]     Phone Info Tool                                                                     (By Error)
+[7]     System INFO                                                                         (By Error)
+[8]     Sniffing , Spoofing                                                                 (By Error)
+[9]     IP Information Gathering                                                            (By Error)
+[10]    Email Verifier                                                                      (By Error)
+[11]    Port Scanner                                                                        (By Error)
+[12]    SQL Injection Scanner                                                               (By Error)
+[13]    Discord Spammer                                                                     (By Error)
+[14]    Wordlist Generator                                                                  (By Error)
+[15]    Find Social Media Account With Username                                             (By Error)
+[16]    See index.html Source Of Website                                                    (By Error)
+[17]    Creating Fake Wifi Acces Point For Phishing                                         (By Error)
+[18]    XSS Vulnerebility Scan                                                              (By Error)
+[19]    Dedect ARP Spoof                                                                    (By Error)
+[20]    Image Meta Data                                                                     (By Error)
+[21]    Brute Force ZIP                                                                     (By Error)
+[22]    Instagram Bot                                                                       (By Januie)
 [C]     Credits
 [Q]     Quit
 .
