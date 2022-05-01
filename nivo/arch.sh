@@ -9,10 +9,10 @@ echo "[SETUP] Installing..."
     sudo pacman -S python-pip
     pip install pandas pandas-datareader plotly
     pip install tqdm
-    pip install instabot
     pip install sockets
     sudo pacman -S php
     sudo pacman -S hostapd
+    pip install instabot
     pip install matplotlib
     sudo pacman -S dhcpd
     pip install google
