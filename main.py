@@ -43,6 +43,7 @@ print(f"{bcolors.FAIL}[20]    Image Meta Data") # Error
 print(f"{bcolors.FAIL}[21]    Brute Force ZIP") # Error
 print(f"{bcolors.FAIL}[22]    Instagram Bot") # Januie
 print(f"{bcolors.FAIL}[23]    Email Extractor") # Error
+print(f"{bcolors.FAIL}[24]    Password Generator") # Janiue
 print(f"{bcolors.FAIL}[C]     Credits") # Error
 print(f"{bcolors.FAIL}[Q]     Quit") # Error
 print(" ")
@@ -101,6 +102,8 @@ elif i == "22":
     os.system("sudo python3 ./nivo/NIVO_IG.py") # Error
 elif i == "23":
     os.system("sudo python3 ./nivo/NIVO_EMX.py") # Error
+elif i == "24":
+    os.system("sudo python3 ./nivo/NIVO_PG.py")
 elif i == "C" or i == "c":
     os.system("sudo python3 ./NH/NH_CR.py") # Error
 elif i == "Q" or i == "q" :
