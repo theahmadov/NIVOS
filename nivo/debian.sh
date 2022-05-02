@@ -9,6 +9,7 @@ pip install urllib3
 pip install sockets
 pip install twilio
 sudo apt install bettercap
+pip install requests_html
 pip install tqdm
 pip install platform
 pip install matplotlib
