@@ -5,7 +5,7 @@
 ![](https://visitor-badge.glitch.me/badge?page_id=TheSadError.TheSadError)
 <div>
   <p align="center">
-    <img src="https://github.com/TheSadError/NIVOS/blob/main/Images/c.png" width="700"> 
+    <img src="https://github.com/TheSadError/NIVOS/blob/main/Images/b.png" width="700"> 
   </p>
 </div>
 
