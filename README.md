@@ -61,6 +61,7 @@ Januie's Discord : Jan20🇦🇿#6757
 [21]    Brute Force ZIP                                                                  (By Error)
 [22]    Instagram Bot                                                                    (By Januie)
 [23]    Email Extractor                                                                  (By Error)
+[24]    Password Generator                                                               (By Januie)
 [C]     Credits
 [Q]     Quit
 .
