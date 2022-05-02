@@ -8,6 +8,7 @@ echo "[SETUP] Installing..."
     echo "[SETUP] Installing Python-pip"
     sudo pacman -S python-pip
     pip install pandas pandas-datareader plotly
+    pip install requests_html
     pip install tqdm
     pip install sockets
     sudo pacman -S php
