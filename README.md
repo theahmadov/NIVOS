@@ -32,8 +32,11 @@ sudo python3 main.py
 ```
 
 ## Information Of Tool
-
-Still Upgrading.
+```
+Error's Discord  : err0r#4018
+Januie's Discord : Jan20🇦🇿#6757ü
+```
+### Still Upgrading.
 ```
 [1]     Scan Devices On Your Network                                                     (By Error)
 [2]     Scan Networks                                                                    (By Error)
