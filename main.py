@@ -11,7 +11,7 @@ class bcolors:
     RESET = '\033[0m' 
     #TheSadError Repo
 os.system("clear")
-os.system("figlet Error | lolcat")
+os.system("figlet NIVOS | lolcat")
 print(f"{bcolors.FAIL}This Tool Created By Error")
 print(f"{bcolors.FAIL}Github  : https://github.com/TheSadError ")
 print(f"{bcolors.FAIL}Discord : err0r#4018")
@@ -41,7 +41,8 @@ print(f"{bcolors.FAIL}[18]    XSS Vulnerebility Scan") # Error
 print(f"{bcolors.FAIL}[19]    Dedect ARP Spoof") # Error
 print(f"{bcolors.FAIL}[20]    Image Meta Data") # Error
 print(f"{bcolors.FAIL}[21]    Brute Force ZIP") # Error
-print(f"{bcolors.FAIL}[22]   Instagram Bot") # Janiue
+print(f"{bcolors.FAIL}[22]    Instagram Bot") # Januie
+print(f"{bcolors.FAIL}[23]    Email Extractor") # Error
 print(f"{bcolors.FAIL}[C]     Credits") # Error
 print(f"{bcolors.FAIL}[Q]     Quit") # Error
 print(" ")
@@ -97,7 +98,9 @@ elif i == "20":
 elif i == "21":
     os.system("sudo python3 ./nivo/NIVO_ZIP.py") # Error
 elif i == "22":
-    os.system("sudo python3 ./nivo/NIVO_IG.py") # janiue
+    os.system("sudo python3 ./nivo/NIVO_IG.py") # Error
+elif i == "23":
+    os.system("sudo python3 ./nivo/NIVO_EMX.py") # Error
 elif i == "C" or i == "c":
     os.system("sudo python3 ./NH/NH_CR.py") # Error
 elif i == "Q" or i == "q" :
