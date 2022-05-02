@@ -60,6 +60,7 @@ Januie's Discord : Jan20🇦🇿#6757ü
 [20]    Image Meta Data                                                                  (By Error)
 [21]    Brute Force ZIP                                                                  (By Error)
 [22]    Instagram Bot                                                                    (By Januie)
+[23]    Email Extractor                                                                  (By Error)
 [C]     Credits
 [Q]     Quit
 .
