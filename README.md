@@ -58,6 +58,10 @@ Januie's Discord : Jan20🇦🇿#6757
 [24]    Password Generator                                                               (By Januie)
 [C]     Credits
 [Q]     Quit
+
+[Added Strongest Anonymous DDOS Scripts For Wanters. In python. If you want you can use it. But scripts is not in menu. Just in repo folder.
+in ./scripts folder you can find them. These Scripts Are For Educational Purposes! 
+]
 .
 .
 .
