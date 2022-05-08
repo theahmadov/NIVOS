@@ -1,13 +1,9 @@
 
 # NIVOS
 ## Information Gathering And Scan Tool
-
+Contact : https://discord.gg/qzwBTQvc
 ![](https://visitor-badge.glitch.me/badge?page_id=TheSadError.TheSadError)
-<div>
-  <p align="center">
-    <img src="https://github.com/TheSadError/NIVOS/blob/main/Images/b.png" width="700"> 
-  </p>
-</div>
+
 
 <div>
   <p align="center">
