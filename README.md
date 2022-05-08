@@ -1,9 +1,8 @@
 
 # NIVOS
 ## Information Gathering And Scan Tool
-Contact : https://discord.gg/qzwBTQvc
 ![](https://visitor-badge.glitch.me/badge?page_id=TheSadError.TheSadError)
-
+Contact : https://discord.gg/qzwBTQvc
 
 <div>
   <p align="center">
