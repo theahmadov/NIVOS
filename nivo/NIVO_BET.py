@@ -9,4 +9,4 @@ class bcolors:# Error
 print(f"{bcolors.OK}[NIVOS] Sniffing Spoofing")# Error
 print(f"{bcolors.OK}[NIVOS] Starting...")# Error
 
-os.system("sudo bettercap")# Error
+os.system("sudo bettercap")
