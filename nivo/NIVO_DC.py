@@ -12,6 +12,7 @@ class bcolors:
 os.system("clear")
 msg = input(f"{bcolors.OK}[NIVOS] Please Enter Message For Spam : ")
 webhook = input(f"{bcolors.OK}[NIVOS] Please Enter WebHook URL: ")
+time.sleep(1)
 def spam(msg, webhook):
     while True:
         try:
