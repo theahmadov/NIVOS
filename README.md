@@ -27,7 +27,7 @@ sudo python3 main.py
 
 ## Information Of Tool
 ```
-Error's Discord  : err0r#4018
+Error's Discord  : thesaderror#1351
 Januie's Discord : Jan20🇦🇿#6757
 ```
 ### Still Upgrading.
