@@ -1,14 +1,11 @@
 
 # NIVOS ![](https://visitor-badge.glitch.me/badge?page_id=TheSadError.TheSadError) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)<p><a href="https://github.com/TheSadError"><img src="https://img.shields.io/badge/-Github-red?&style=for-the-badge&logo=github&logoColor=white" height=25></a><a href="https://www.youtube.com/channel/UCUfTuo3-85qD_7v1n-W98rw"><img src="https://img.shields.io/badge/-YouTube-red?&style=for-the-badge&logo=youtube&logoColor=white" height=25></a></p>
-## Information Gathering And Scan Tool
-Contact : https://discord.gg/QJAj3CUB (Solo Community)
-
 <div>
   <p align="center">
     <img src="Images/s9a.png" width="800"> 
   </p>
 </div>
-
+## You can check Vector Osint Intellegence (Find people locations , informations by username , email) : https://github.com/thesaderror/vector
 
 NIVOS is a hacking tool that allows you to scan deeply , crack wifi, see people on your network. It applies to all linux operating systems. And it is improving every day, new packages are added. Thank You For Using NIVOS :> [NIVOS Created By NIVO Team]
 
