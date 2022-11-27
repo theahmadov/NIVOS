@@ -66,12 +66,6 @@ in ./scripts folder you can find them. These Scripts Are For Educational Purpose
 .
 .
 ```
-**Donation :**
-```
-TR05 0006 2000 0280 0009 0525 31
-Name : Teymur Ahmetzade
-USD Type
-```
 ## Created : April 21 2022 [21.04.2022]
 
 # For Educational Purposes
