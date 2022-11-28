@@ -10,7 +10,7 @@
 
 NIVOS is a hacking tool that allows you to scan deeply , crack wifi, see people on your network. It applies to all linux operating systems. And it is improving every day, new packages are added. Thank You For Using NIVOS :> [NIVOS Created By NIVO Team]
 
-You can check Vector Osint Intellegence (Find people locations , informations by username , email) : https://github.com/thesaderror/vector
+You can check Vector Osint Intellegence (Find people locations , informations by username , email) : https://github.com/redc86/vector
 
 ## Installation & Setup
 ```
@@ -27,7 +27,7 @@ sudo python3 main.py
 
 ## Information Of Tool
 ```
-Error's Discord  : thesaderror#1351
+Error's Discord  : redc86#1351
 Januie's Discord : Jan20🇦🇿#6757
 ```
 ### Still Upgrading.
